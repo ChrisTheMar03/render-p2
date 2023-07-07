@@ -1,0 +1,8 @@
+
+GET http://localhost:8080/idat/onrender.com/idat/nombre-completo
+
+###
+GET http://localhost:8080/idat/onrender.com/idat/codigo
+
+###
+GET http://localhost:8080/idat/onrender.com
